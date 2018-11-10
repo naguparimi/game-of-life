@@ -495,7 +495,7 @@
             </reporting>
         </profile>
     </profiles>
-    <distributionmanagement>
+    <distributionManagement>
         
         <repository>
             <id>releases</id>
@@ -508,5 +508,5 @@
             <name>Snapshotss</name>
             <url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
         </snapshotrepository>
-   </distributionmanagement>    
+   </distributionManagement>    
 </project>
